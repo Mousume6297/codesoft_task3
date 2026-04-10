@@ -47,7 +47,7 @@ codesoft_task3/
 1. Clone the repository:
 
 ```
-git clone https://github.com/YOUR-USERNAME/codesoft_task3.git
+git clone https://github.com/Mousume6297/codesoft_task3.git
 ```
 
 2. Open the folder
@@ -67,5 +67,5 @@ git clone https://github.com/YOUR-USERNAME/codesoft_task3.git
 ## 👩‍💻 Author
 
 **Mousume**
-GitHub: https://github.com/YOUR-USERNAME
+GitHub: https://github.com/Mousume6297
 
