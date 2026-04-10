@@ -38,7 +38,7 @@ codesoft_task3/
 
 ## 🌐 Live Demo
 
-👉 (Add your GitHub Pages link here after deployment)
+👉 https://mousume6297.github.io/codesoft_task3/
 
 ---
 
